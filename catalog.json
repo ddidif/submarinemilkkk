@@ -34,5 +34,17 @@
     ],
     "bannerUrl": "https://raw.githubusercontent.com/ddidif/submarinemilkkk/sea/banner.png",
     "backgroundUrl": "https://raw.githubusercontent.com/ddidif/submarinemilkkk/sea/background.png"
+  },
+  {
+    "id": "vanilla-plus",
+    "branch": "vanilla+",
+    "title": "Vanilla+",
+    "description": "A lightly modded Minecraft experience. Adds performance improvements, quality-of-life features, and subtle visual enhancements while keeping the core vanilla gameplay intact.",
+    "tags": ["vanilla", "survival", "optimization"],
+    "mrpacks": [
+      "Super vanilla.mrpack"
+    ],
+    "bannerUrl": null,
+    "backgroundUrl": null
   }
 ]
