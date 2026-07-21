@@ -56,7 +56,7 @@
     "mrpacks": [
       "Default.mrpack"
     ],
-    "bannerUrl": null,
-    "backgroundUrl": null
+    "bannerUrl": "https://raw.githubusercontent.com/ddidif/submarinemilkkk/test/banner.png",
+    "backgroundUrl": "https://raw.githubusercontent.com/ddidif/submarinemilkkk/test/background.png"
 } 
 ]
