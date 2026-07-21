@@ -54,7 +54,7 @@
     "description": "abema",
     "tags": ["vanilla", "abema", "test"],
     "mrpacks": [
-      "Default.mrpack"
+      "default.mrpack"
     ],
     "bannerUrl": "https://raw.githubusercontent.com/ddidif/submarinemilkkk/test/banner.png",
     "backgroundUrl": "https://raw.githubusercontent.com/ddidif/submarinemilkkk/test/background.png"
