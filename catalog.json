@@ -48,16 +48,15 @@
     "backgroundUrl": null
   },
   {
-  "id": "test",
-  "branch": "test",
-  "title": "Example",
-  "description": "abema",
-  "tags": ["vanilla", "abema", "test"],
-  "mrpacks": [
-    "Default.mrpack"
-  ],
-  "bannerUrl": null,
-  "backgroundUrl": null
-}
-  
+    "id": "test",
+    "branch": "test",
+    "title": "Example",
+    "description": "abema",
+    "tags": ["vanilla", "abema", "test"],
+    "mrpacks": [
+      "Default.mrpack"
+    ],
+    "bannerUrl": null,
+    "backgroundUrl": null
+} 
 ]
